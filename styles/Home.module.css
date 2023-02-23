@@ -1,0 +1,60 @@
+.home{
+  background-image: url("https://images.unsplash.com/photo-1666214280391-8ff5bd3c0bf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  object-fit: contain;
+  background-repeat: no-repeat;
+  background-size: 1550px 1000px;
+  
+}
+.about{
+  background-image: url("https://images.pexels.com/photos/7578803/pexels-photo-7578803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  object-fit: contain;
+  object-position: center;
+  background-repeat: no-repeat;
+  background-size: 1550px 1000px;
+  
+}
+.department{
+  
+    background-image: url("https://images.pexels.com/photos/8460225/pexels-photo-8460225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    object-fit: contain;
+    object-position: center;
+    background-repeat: no-repeat;
+    background-size: 1550px 1000px;
+}
+.doc{
+  
+  background-image: url("https://images.unsplash.com/photo-1666214277730-e9c7e755e5a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  object-fit: contain;
+  object-position: center;
+  background-repeat: no-repeat;
+  background-size: 1550px 1000px;
+}
+.docDetails{
+  
+  background-image: url("https://images.unsplash.com/photo-1666214280577-5f90bc36be92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+  object-fit: contain;
+  object-position: center;
+  background-repeat: no-repeat;
+  background-size: 1550px 1000px;
+}
+.amb{
+  
+    background-image: url("https://plus.unsplash.com/premium_photo-1664299503603-237d266dc7cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    object-fit: contain;
+    object-position: center;
+    background-repeat: no-repeat;
+    background-size: 1550px 1000px;
+
+  }
+
+  .profile{
+  
+    background-image: url("https://images.pexels.com/photos/3957989/pexels-photo-3957989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    object-fit: contain;
+    object-position: center;
+    background-repeat: no-repeat;
+    background-size: 1550px 1000px;
+
+  }
+
+  
